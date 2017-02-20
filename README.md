@@ -15,5 +15,5 @@ Caution : There's no administration tool linked to that widget, so configuring i
 # Configuration
 The configuration of the widget is done by hand (the people handling guild recruitment will only need to know how to change a CSS class).
 - The code has two classes : closed and open
-- For each class spec, there's a <td class="open|closed">TheImageOfTheClassSpec</td>
+- For each class spec, there's a <b>\<td class="open|closed"\>TheImageOfTheClassSpec\</td\></b>
 - Put open or closed for the class spec you want to open/close to recruitment. Save your changes. Refresh to ensure that your job is done correctly. Job's done.
