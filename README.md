@@ -3,6 +3,10 @@ A barebones & lightweight (~80ko of images, ~5ko of HTML code) World of Warcraft
 This widget only uses HTML and CSS, thus enabling you to add this widget to your website without relying on a particular server configuration or content management system (For the record, I've done it for a GuildLaunch-hosted website). <br />
 Caution : There's no administration tool linked to that widget, so configuring it requires basic knowledge of HTML/CSS (since you're going to modify the HTML code by yourself; don't worry, it's easy to do so).
 
+# Preview
+Being a simple table with some text and images, you can easily integrate that widget in most templates. <br />
+<img src="https://raw.githubusercontent.com/Fifix/WoWRecruitmentWidget/master/example.png">
+
 # Installation
 - Download this project's contents.
 - Upload the contents of the img folder to your website
