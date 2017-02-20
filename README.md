@@ -1,7 +1,6 @@
 # WoWRecruitmentWidget
-A barebones & lightweight (~80ko of images, ~5ko of HTML code) World of Warcraft recruitment widget, for any guild website.
-
-This widget only uses HTML and CSS, thus enabling you to add this widget to your website without relying on a particular server configuration or content management system (For the record, I've done it for a GuildLaunch-hosted website)
+A barebones & lightweight (~80ko of images, ~5ko of HTML code) World of Warcraft recruitment widget, for any guild website.<br />
+This widget only uses HTML and CSS, thus enabling you to add this widget to your website without relying on a particular server configuration or content management system (For the record, I've done it for a GuildLaunch-hosted website). <br />
 Caution : There's no administration tool linked to that widget, so configuring it requires basic knowledge of HTML/CSS (since you're going to modify the HTML code by yourself; don't worry, it's easy to do so).
 
 # Installation
